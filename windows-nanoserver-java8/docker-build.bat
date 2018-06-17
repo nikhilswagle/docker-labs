@@ -1,0 +1,1 @@
+docker build -t nikhilswagle/windows-nanoserver-java8 .
